@@ -1,6 +1,6 @@
-# Portfólio de projetos — Mateus Pena
+# Projetos web — Mateus Pena
 
-Projetos independentes criados para demonstrar desenvolvimento web, interfaces responsivas, lógica de produto e integração de dados.
+Projetos independentes aplicações independentes para web, interfaces responsivas, lógica de produto e integração de dados.
 
 ## Projetos
 
@@ -24,7 +24,7 @@ Projetos independentes criados para demonstrar desenvolvimento web, interfaces r
 
 ## Sobre esta coleção
 
-Cada projeto é independente e usa dados demonstrativos seguros. Os projetos existentes do autor, incluindo o TCC, o Motion Web e o Viora, permanecem separados e não foram alterados.
+Cada projeto é independente e usa dados demonstrativos seguros. Os projetos existentes, incluindo o TCC, o Motion Web e o Viora, permanecem separados e não foram alterados.
 
 ## Próximos passos
 
