@@ -31,3 +31,11 @@ Cada projeto é independente e usa dados demonstrativos seguros. Os projetos exi
 - Publicar demos online.
 - Adicionar testes automatizados aos projetos mais completos.
 - Criar integrações com APIs reais quando fizer sentido.
+
+## SaaS
+
+| Produto | Uso | Código |
+|---|---|---|
+| **Atende Pro** | Central de atendimento para equipes | [Abrir repositório](https://github.com/Mateusmfmd/atende-pro) |
+| **Agenda Nuvem** | Agenda online para serviços | [Abrir repositório](https://github.com/Mateusmfmd/agenda-nuvem) |
+| **Caixa Certo** | Gestão financeira para pequenos negócios | [Abrir repositório](https://github.com/Mateusmfmd/caixa-certo) |
